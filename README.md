@@ -5,7 +5,7 @@ A color picker widget for Jupyter Notebook.
 
 Well, this is my first widget for Jupyter so any feedback is welcome and appreciated. It was created using the widget-cookiecutter from @jupyter-widgets. Unfortunately the example notebook probably won't show the widget in Github so here's a screenshot of how the widget actually looks:
 
-![Screenshot from example.ipynb](https://github.com/changmn/jupyter-color-picker/example/example.png)
+![Screenshot from example.ipynb](https://github.com/changmn/jupyter-color-picker/blob/master/example/example.png)
 
 To Do
 -----
