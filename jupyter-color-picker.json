@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "jupyter-color-picker/extension": true
+  }
+}

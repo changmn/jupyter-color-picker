@@ -1,0 +1,2 @@
+recursive-include jupyter_color_picker/static *.*
+include jupyter-color-picker.json
