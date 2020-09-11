@@ -3,6 +3,16 @@ jupyter-color-picker
 
 A color picker widget for Jupyter Notebook.
 
+Well, this is my first widget for Jupyter so any feedback is welcome and appreciated. It was created using the widget-cookiecutter from @jupyter-widgets. Unfortunately the example notebook probably won't show the widget in Github so here's a screenshot of how the widget actually looks:
+
+[[/example/example.png|Screenshot from example.ipynb]]
+
+To Do
+-----
+* Add different types of color pickers, or at least an HSV color picker
+* Allow for changing the size of the widget
+* Add options for changing some CSS properties
+
 Installation
 ------------
 
